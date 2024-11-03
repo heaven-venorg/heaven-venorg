@@ -11,7 +11,7 @@ Saya adalah seorang pengembang web yang bersemangat dengan keahlian dalam **HTML
 
 ## 🚀 Statistik GitHub
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=heaven-venorg&show_icons=true&theme=radical)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=heaven-venorg&show_icons=true&theme=dark)
 
 ## 💬 Mari Terhubung!
 
